@@ -24,5 +24,5 @@
 
 - ComparacionCodigo.pdf:
   - Contiene el analisis y la comparacion de los dos codigos entregados.
-- ML-Regresion.py:
-  - Contiene el codigo del modelo de ML para una regresion lineal.
+- Diagrama.PNG:
+  - Contiene el diagrama de ML de regresion lineal implementado con POO.
